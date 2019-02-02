@@ -1,5 +1,5 @@
-./app/src/assets/ts/config.ts
-./app/src/shims-tsx.d.ts
+./src/assets/ts/config.ts
+./src/shims-tsx.d.ts
 learning
 # nuxt componentでエラーになってしまうためignoreしておく
 
